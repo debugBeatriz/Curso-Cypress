@@ -2,7 +2,7 @@
 
 ## Tecnologias usadas:
 ### Cypress
-### Javascript https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg
+### Javascript 
 ### Node.js
 ### API's RESTFUL
 
